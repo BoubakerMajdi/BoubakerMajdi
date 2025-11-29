@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BoubakerMajdi
-- 👀 I’m interested in cyberSecurity , App Developement and other interesting stuff 
-- 🌱 I’m currently learning CyberSecurity(OWASP ZAP, SonarQube, Selenium and Burp Suite) for my graduation project
+- 👀 I’m interested in CyberSecurity , App Developement and other interesting stuff 
+- 🌱 I’m currently learning CyberSecurity(OWASP ZAP, SonarQube, Selenium and Burp Suite)
 
 
 <!---
